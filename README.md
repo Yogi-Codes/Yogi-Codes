@@ -18,7 +18,7 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/97585034" alt="code GIF" />
 
----
+
 
 ## 👨‍💻 About Me
 
