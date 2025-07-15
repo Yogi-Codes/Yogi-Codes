@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Certifications:** CRTP , CEH Practical
+- 🎓 **Certifications:** OSCP (Loading ...)CRTP , CEH Practical
 - 🤖 **AI & Automation:** Python scripting, ML basics, Langchain
 ---
 
