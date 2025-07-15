@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
+<h2 align="left">Hi 👋! I’m Yogi Codes, a DevSecOps & AI Security Engineer, OSCP-certified, and Python Automation enthusiast from India.</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -18,22 +16,60 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35" alt="YouTube"/></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram"/></a>
+  <a href="https://twitch.tv/yourchannel"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" alt="Twitch"/></a>
+  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn"/></a>
 </div>
 
-###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="code GIF" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 👨‍💻 About Me
+
+- 🎓 **Certifications:** OSCP, DevSecOps Practitioner  
+- 🛠️ **Domain:** Security Engineering, Cloud Infrastructure (AWS), Kubernetes & Containerization  
+- 🤖 **AI & Automation:** Python scripting, ML basics, AI Security Foundations  
+- 🌐 **Open Source:** Contributor to ZAP browser-extension, HashiCorp Vault docs & community  
+
+---
+
+## 🔭 Current Focus
+
+- Building **fully automated DevSecOps pipelines** with Terraform, CI/CD, K8s & OPA/Gatekeeper  
+- Deepening knowledge in **AI Security**, adversarial ML & cryptographic protocols  
+- Mastering **cloud-native security architecture** on AWS & Azure  
+
+---
+
+## 🌱 I’m Learning
+
+- Linear Algebra & Calculus for Deep Learning  
+- Advanced Kubernetes (multi-cluster, service mesh)  
+- Secure software supply chains & SBOMs  
+
+---
+
+## 👯 Looking to Collaborate On
+
+- Security tooling (SAST/DAST) integrations  
+- AI-driven vulnerability assessment projects  
+- Real-world Kubernetes security policies with OPA/Gatekeeper  
+
+---
+
+## ⚡ Fun Fact
+
+- Coffee ☕ fuels my late-night coding sprints.  
+- I love **gamifying** my learning with Capture The Flag challenges.
+
+---
+
+## 🛠️ Tech & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -44,7 +80,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
@@ -62,8 +98,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
@@ -75,4 +109,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
-###
+---
+
+> “Secure code today keeps the hackers away tomorrow.”  
+> – *Yogi Codes*
+
