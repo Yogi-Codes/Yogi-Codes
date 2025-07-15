@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Your Name — a Your Title / Role from Your Country / City</h2>
+<h2 align="left">Hi 👋, I'm Anik Ghosh — a Security Engineer Specializing in Automation from India</h2>
 
 ---
 
@@ -55,41 +55,17 @@
 ### 📫 Connect with Me
 
 <div align="left">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:yogicodes101@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/anik-ghosh-954a85202" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="30" alt="youtube logo" />
-  </a>
 </div>
 
 ---
 
-### 📰 Latest Medium Articles
-
-<div align="center">
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0" alt="Medium article 1" width="100%" />
-  </a>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/1" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/1" alt="Medium article 2" width="100%" />
-  </a>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/2" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/2" alt="Medium article 3" width="100%" />
-  </a>
-</div>
-
----
 
 ### 👤 Profile Picture
 
-<img align="right" src="yourprofilepic.jpg" alt="Your Name" width="150" style="border-radius: 50%;" />
+<img align="right" src="https://avatars.githubusercontent.com/u/97585034" alt="Your Name" width="150" style="border-radius: 50%;" />
