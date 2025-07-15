@@ -107,7 +107,7 @@
 <h3 align="left">🌍 Open Source Contribution Activity</h3>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi-Codes&theme=radical&border_radius=5" alt="GitHub Streak" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Yogi-Codes)](https://git.io/streak-stats)
 </p>
 
 <p align="left">
