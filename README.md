@@ -49,6 +49,7 @@
 - DevSecOps
 - Advanced Kubernetes (multi-cluster, service mesh)
 - Secure software supply chains
+- Indepth Python Automation
 
 ---
 
