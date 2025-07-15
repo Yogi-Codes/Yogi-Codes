@@ -43,23 +43,8 @@
 
 </div>
 <div align="left">
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
   &nbsp;
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://twitch.tv/yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:yogicodes101@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   &nbsp;
