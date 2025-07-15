@@ -40,6 +40,7 @@
 - Deepening knowledge in fully automated DevSecOps pipelines with Terraform, CI/CD, K8s & OPA/Gatekeeper  
 - Deepening knowledge in **AI Security**, adversarial ML & cryptographic protocols  
 - Mastering **cloud-native security architecture** on AWS & Azure
+- Preparing for OSCP
 
 ---
 
