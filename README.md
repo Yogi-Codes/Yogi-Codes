@@ -63,8 +63,8 @@ My toolkit for building and deploying secure, scalable, and automated solutions 
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Anik Ghosh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Anik Ghosh's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogi-Codes&show_icons=true&theme=radical&hide_border=true" alt="Anik Ghosh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi-CodesE&theme=radical&hide_border=true" alt="Anik Ghosh's GitHub Streak" />
 </div>
 
 ---
