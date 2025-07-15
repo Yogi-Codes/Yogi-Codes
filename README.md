@@ -104,7 +104,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
+<h3 align="left">🌍 Open Source Contribution Activity</h3>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi-Codes&theme=radical&border_radius=5" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yogi-Codes&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=Yogi-Codes&theme=radical" alt="Contributions" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogi-Codes&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogi-Codes&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 ---
 
 > “Secure code today keeps the hackers away tomorrow.”  
