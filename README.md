@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I’m Yogi Codes, a DevSecOps & AI Security Engineer, OSCP-certified, and Python Automation enthusiast from India.</h2>
+<h2 align="left">Hi! I’m Yogi Codes,  AI Security Automation  Engineer, CRTP-certified, and Python Security  Automation Enthusiast  from India.</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,26 +31,23 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Certifications:** OSCP, DevSecOps Practitioner  
-- 🛠️ **Domain:** Security Engineering, Cloud Infrastructure (AWS), Kubernetes & Containerization  
-- 🤖 **AI & Automation:** Python scripting, ML basics, AI Security Foundations  
-- 🌐 **Open Source:** Contributor to ZAP browser-extension, HashiCorp Vault docs & community  
-
+- 🎓 **Certifications:** CRTP , CEH Practical
+- 🤖 **AI & Automation:** Python scripting, ML basics, Langchain
 ---
 
 ## 🔭 Current Focus
 
-- Building **fully automated DevSecOps pipelines** with Terraform, CI/CD, K8s & OPA/Gatekeeper  
+- Deepening knowledge in fully automated DevSecOps pipelines with Terraform, CI/CD, K8s & OPA/Gatekeeper  
 - Deepening knowledge in **AI Security**, adversarial ML & cryptographic protocols  
-- Mastering **cloud-native security architecture** on AWS & Azure  
+- Mastering **cloud-native security architecture** on AWS & Azure
 
 ---
 
 ## 🌱 I’m Learning
 
-- Linear Algebra & Calculus for Deep Learning  
-- Advanced Kubernetes (multi-cluster, service mesh)  
-- Secure software supply chains & SBOMs  
+- DevSecOps
+- Advanced Kubernetes (multi-cluster, service mesh)
+- Secure software supply chains
 
 ---
 
@@ -58,16 +55,15 @@
 
 - Security tooling (SAST/DAST) integrations  
 - AI-driven vulnerability assessment projects  
-- Real-world Kubernetes security policies with OPA/Gatekeeper  
+- Real-world Kubernetes security policies with OPA/Gatekeeper
 
 ---
 
 ## ⚡ Fun Fact
 
-- Coffee ☕ fuels my late-night coding sprints.  
+- Coffee ☕ fuels my late-night coding sprints.
 - I love **gamifying** my learning with Capture The Flag challenges.
 
----
 
 ## 🛠️ Tech & Tools
 
