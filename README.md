@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I’m Yogi Codes,  AI Security Automation  Engineer, CRTP-certified, and Python Security  Automation Enthusiast  from India.</h2>
+<h2 align="left">Hi! I’m Yogi Codes,  AI Security Automation Engineer and Python Security  Automation Enthusiast  from India.</h2>
 
 
 
