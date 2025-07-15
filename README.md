@@ -104,10 +104,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
-<h3 align="left">🌍 Open Source Contribution Activity</h3>
-
 <p align="left">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Yogi-Codes)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi-Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="left">
