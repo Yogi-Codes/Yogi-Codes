@@ -1,6 +1,7 @@
 <h2 align="left">Hi! I’m Yogi Codes,  AI Security Automation  Engineer, CRTP-certified, and Python Security  Automation Enthusiast  from India.</h2>
 
 <div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
@@ -14,6 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
+</div>
+
 </div>
 <div align="left">
   <a href="https://youtube.com/yourchannel" target="_blank">
