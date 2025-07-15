@@ -22,11 +22,15 @@
 
 ## 👨‍💻 About Me
 
+<div>
+   <img align="right" height="150" src="https://avatars.githubusercontent.com/u/97585034" alt="code GIF" />
+</div>
+
 - 🎓 **Certifications:** OSCP (Loading ...)CRTP , CEH Practical
 - 🤖 **AI & Automation:** Python scripting, ML basics, Langchain
 </br>
  
- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/97585034" alt="code GIF" />
+
 
 
 ## 🔭 Current Focus
