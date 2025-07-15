@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn"/></a>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="code GIF" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/97585034" alt="code GIF" />
 
 ---
 
