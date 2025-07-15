@@ -24,7 +24,7 @@
 
 - 🎓 **Certifications:** OSCP (Loading ...)CRTP , CEH Practical
 - 🤖 **AI & Automation:** Python scripting, ML basics, Langchain
----
+
 
 ## 🔭 Current Focus
 
