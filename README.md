@@ -1,4 +1,3 @@
-```markdown
 <h2 align="left">Hi 👋, I'm Anik Ghosh — a Security Engineer Specializing in Automation from India</h2>
 
 ---
@@ -105,4 +104,3 @@ Let's collaborate or chat about security and automation!
 I'm open to contributions on my open-source projects or discussions on new security challenges. Feel free to reach out via email or LinkedIn!
 
 <img align="right" src="https://avatars.githubusercontent.com/u/97585034" alt="Anik Ghosh" width="150" style="border-radius: 50%;" />
-```
