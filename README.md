@@ -85,8 +85,8 @@
 ## 👯 Looking to Collaborate On
 
 - Security tooling (SAST/DAST) integrations  
-- AI-driven vulnerability assessment projects  
-- Real-world Kubernetes security policies with OPA/Gatekeeper
+- AI-driven vulnerability assessment projects and product development 
+- Full Stack Mern and Flutter project developments
 
 ---
 
