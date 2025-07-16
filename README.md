@@ -104,9 +104,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi-Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yogi-Codes&theme=radical" alt="Top Languages" />
